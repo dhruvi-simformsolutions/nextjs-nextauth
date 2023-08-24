@@ -3,7 +3,7 @@ This repository serves to demonstrate an example of secure user authentication a
 
 ## Getting Started
 
-First, create `.env` file at root of project and set all variables available in `.env.example` then run the development server:
+First, create `.env` file at root of each project .i.e server and client and set all variables available in `.env.example` then run the development server:
 
 ```bash
 npm run dev
