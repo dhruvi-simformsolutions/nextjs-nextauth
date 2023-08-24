@@ -1,0 +1,31 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+    align-items: center;
+    padding: 2rem;
+    min-height: 100vh;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    border-bottom: 1px solid #ef5366;
+    width: 100%;
+  }
+  
+  .actionButton {
+    background-color: #ef5366;
+    border-color: #fff;
+  }
+  
+  .actionButton:hover {
+    background-color: #ef5366;
+  }
+  
+  .accessToken {
+    max-width: 50px;
+    word-break: break-all;
+  }
+  
