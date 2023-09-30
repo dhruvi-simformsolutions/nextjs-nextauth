@@ -6,11 +6,19 @@ This repository serves to demonstrate an example of secure user authentication a
 First, create `.env` file at root of each project .i.e server and client and set all variables available in `.env.example` then run the development server:
 
 ```bash
+To run client project
 npm run dev
 # or
 yarn dev
 # or
 pnpm dev
+```
+
+```bash
+To run server project
+npm start
+# or
+yarn start
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
